@@ -30,7 +30,7 @@ System.out.println(x);
 }
 public static void main(String gg[])
 {
-int array[]={1,2,3,4,5};
+int array[]={3,5,1,6,2,4};
 bubbleSortAlgo(array);
 printArray(array);
 }
